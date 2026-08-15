@@ -1,3 +1,2 @@
-# 2026 Robotics Research
-## Inspired by Blue Origin Internship
+# Adaptive Robotics Controller Suite
 
