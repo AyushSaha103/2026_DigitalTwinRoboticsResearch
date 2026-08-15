@@ -1,3 +1,3 @@
 # 2026 Robotics Research
-# # Inspired by Blue Origin Internship
+## Inspired by Blue Origin Internship
 
