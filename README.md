@@ -16,7 +16,7 @@ My work sits at the intersection of **Artificial Intelligence, autonomous system
 ## What I Build
 
 AI solutions which:
-- enable high-speed/ high-efficiency simulation and modeling of high-dimensional complex dynamic systems
+- enable high-speed/ high-efficiency simulation and modeling of high-dimensional dynamic systems
 - use these models to autonomously control the systems
 
 
