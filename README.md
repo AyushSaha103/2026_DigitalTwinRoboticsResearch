@@ -20,6 +20,6 @@ AI solutions which:
 - use these models to autonomously control the systems
 
 
-
+## Discover More About Me
 [LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio (find link in resume)](#)
 
