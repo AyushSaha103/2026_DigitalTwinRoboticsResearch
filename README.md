@@ -7,7 +7,7 @@ A novel algorithm enabling aerial systems to **learn, adapt, and maintain contro
 
 
 ### Intro
-Hey, I'm Ayush 👋
+Hi, I'm Ayush
 
 I'm an **AI/ML and autonomous systems engineer** pursuing an M.S. in Computer Science (Artificial Intelligence) at USC.
 
