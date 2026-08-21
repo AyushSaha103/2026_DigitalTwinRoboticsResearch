@@ -21,5 +21,5 @@ AI solutions which:
 
 
 
-[LinkedIn](#) · [Research Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ayush-saha/) · [Research Portfolio (find link in resume)](#)
 
